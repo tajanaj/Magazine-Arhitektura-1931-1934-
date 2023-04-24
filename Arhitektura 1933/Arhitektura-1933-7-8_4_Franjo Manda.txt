@@ -1,0 +1,27 @@
+Suvremeni signalni uređaji u hotelima
+Suvremeni život postavlja tri zahtjeva: ukus, praktičnost, udobnost! Razumije se da je dobra 
+signalizacija u hotelima prvi uvjet udobnosti. Projektant mora imati na umu sljedeće uvjete:
+1. Gost mora biti u mogućnosti nazvati službu koja mu je potrebna u svakom trenutku bez gubljenja 
+vremena.
+2. Pozivanje jednog gosta ne smije remetiti mir drugih gostiju.
+3. Pozvana služba mora odmah uočiti poziv u svom normalnom radu, odnosno na svakom mjestu za dostavu, 
+te uslužiti gosta najkraćim putem.
+4. Svaki poziv mora ostati i ne zaboraviti se dok se želja gosta ne ispuni.
+Za svakog gosta postavljena je tipka, zidna i stolna, pomoću koje raznim tipkama može pozvati slugu, 
+konobara ili sobaricu. Svaki gumb pali malu signalnu lampicu odgovarajuće boje u zidu iznad vrata gosta 
+koji zove. Kako bi služba mogla primijetiti poziv čak i ako je na drugom mjestu, u predvorju su postavljene 
+grupe signalnih svjetala, koje odmah pokazuju na kojem se hodniku i koje boje nalazi poziv. Ovo je sustav s 
+tri boje za tri različite usluge. U jednostavnim slučajevima koristi se jednobojni ili dvobojni sustav. Ako 
+se poslužitelj nalazi u gostinjskoj sobi i obavlja svoj uobičajeni posao, on umetne ključ za spajanje u 
+centralu i na taj se način spoji na signalnu liniju. Onoliko brzo koliko gost zove, on upozorava pjevušeći 
+servis kratkim kuckanjem; oni se čuju samo u sobi i ne smetaju drugim gostima. Služba na hodniku odmah po 
+skupnim svjetiljkama zna u kojem je odjelu pozvana i može odmah poslužiti bez potrebe da traži središnji 
+pozivni uređaj. Svjetlo svijetli dok se ne ugasi na vratima gdje je pozvano nakon obavljene usluge posebnim 
+prekidačem, zbog čega se ne može zaboraviti. Nadalje, u blizini conciergea ili u uredu može se postaviti 
+kontrolna ploča sa skupinom signalnih lampica, pomoću koje uprava može stalno pratiti rad servisa i po potrebi 
+bez prigovora gostiju osigurati odgovarajuću uslugu i udobnost.Uređaj inače radi na 24 volta. Za istosmjernu 
+struju koriste se baterije, a za izmjeničnu struju mali transformatori. Potrošnja struje je minimalna.
+U odnosu na opći signalni uređaj, bit će potrebno voditi računa i o signalnom uređaju u dizalima koji svakom 
+gostu i na svakom katu svjetlosnom strelicom javlja je li dizalo slobodno ili zauzeto, na kojoj se etaži 
+nalazi i u kojem smjeru putuje. Udobnost i sigurnost gosta povećava električna brava koja se može otvoriti 
+i zatvoriti s daljine jednostavnim pritiskom na gumb.
