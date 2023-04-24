@@ -1,0 +1,90 @@
+Novo rješenje pitanja tople vode za stan
+Opskrba tekućom toplom vodom za stanove u vezi s centralnim grijanjem i centralnim 
+grijanjem rješenje je za velike zgrade i luksuzne stanove koje savršeno odgovara svojoj 
+namjeni – ali samo kada pitanje cijene takvog uređaja nije odlučujuće. Pitanje potrošne 
+tople vode za manje zgrade, bilo da se radi o jednostambenim ili višestambenim kućama s 
+običnim građanskim stanovima, još uvijek je neriješeno ni troškovno ni individualno. Tamo 
+gdje do sada nije bilo moguće centralno grijanje, jedino rješenje bilo je ugraditi poseban 
+uređaj za grijanje u obliku posuda od lijevanog željeza ili željeznih cijevi koje zatvaraju 
+ili sprječavaju ognjište u konvencionalnim pećima. Uz ovu instalaciju grijanja, u takvim 
+slučajevima je potreban i poseban spremnik za željezo i dozator svježe vode. U cjelini, 
+ovaj način opskrbe toplom vodom pojedinačno predstavlja prilično dobro rješenje, iako je 
+neekonomičan u radu, a ima i svoje nedostatke u smislu održavanja i skupih popravaka. 
+Korištenje topline u samom ognjištu uzrok je slabe uštede goriva, jer posude i cijevi 
+punjene vodom onemogućuju potpuno izgaranje goriva, što rezultira većom potrošnjom nego 
+što je potrebno, ali pećnice uglavnom slabo lože. U takvim slučajevima spremnik tople 
+vode ljeti nepotrebno zagrijava prostoriju u koju je ugrađen, ali zimi nije dovoljno 
+zagrijati kupaonicu, zbog čega se osim ovog uređaja koristi i pomoćno grijanje na plin. 
+ili je potrebna struja. Takvi pomoćni uređaji opet kompliciraju cijelu instalaciju, 
+poskupljuju održavanje i uzrokuju stalne naplate plina ili struje. Povrh svega, plin 
+nigdje u apartmanima nije rado viđen gost; da i ne govorimo o opasnosti od trovanja, 
+ne možemo zanemariti duh koji se polako ukorjenjuje u svim stanovima u kojima je 
+instaliran plin, ako su ventili i dalje pažljivo zatvoreni i potrošnja ograničena. Novo 
+vrlo jednostavno rješenje za individualnu opskrbu toplom vodom iz slavine pronašao je 
+pisac ovih redaka i već ga je s punim uspjehom isprobao na nekoliko instalacija. Njegov 
+sastav postoji na temelju sljedećih zapažanja.
+Prema suvremenom iskustvu toplinske tehnike, na samom ognjištu ne bi smio postojati 
+uređaj koji bi apsorbirao toplinu na mjestu izgaranja. Svako nasilno hlađenje kvari 
+pravilno izgaranje, uzrokuje puno dima i čađe, smanjuje ekonomičnost grijanja, povećava 
+potrošnju goriva. Jedino pravo mjesto za odvođenje topline je tamo gdje su plinovi već 
+izgorjeli, obavili svoju uobičajenu dužnost, a kada napuste ognjište i uđu u dimnjak s 
+znatnom količinom topline, koju nose sa sobom. Obični štednjaci, koji na pećnici imaju 
+otvoreni bakreni kotlić za toplu vodu, u koji se slatka voda lako dodaje posudom kada 
+istekne, zapravo su najispravniji dizajn štednjaka i ujedno ekonomični, samo nepraktični 
+za toplu vodu jer daje mogućnost tople vode samo na samom kotliću. Koristiti ovaj kotao 
+kao posudu za grijanje na način da je napravljen kao zatvoreni spremnik od lima dovoljno 
+čvrstog da izdrži oko 3-5 m pritiska vode je osnovna ideja novog uređaja. Uvjet za dobar 
+rad takvog kotla je, naravno, redovito mjesečno čišćenje, jer bi u protivnom čađa koja se 
+nakuplja u dimovodu na kotlu polako smanjivala učinkovitost grijanja. Iznad ovog bojlera 
+koji se koristi za grijanje ugrađuje se veća rezerva sa sadržajem od 50-100 l u kojoj se 
+nakuplja topla voda i također dugo održava toplinu. Ovaj princip u potpunosti odgovara 
+suvremenom dizajnu parnih kotlova, koji postiže značajno poboljšanje toplinskog učinka 
+postavljanjem u dimnjak prije nego vrući plinovi odu u dimnjak, posebnih uređaja za 
+grijanje, tzv. ekonomajzera, koji koristi posljednju toplinu. vrućeg dima. dodan u peć 
+Spremnik iznad kotla ima prednost u ovom položaju što je zaštićen od gubitka topline već 
+u svom položaju, jer na tom mjestu još uvijek ima puno topline iz peći kao i iz dimnjaka. 
+Umjesto kotla za grijanje, koji se također može ugraditi u sve već izrađene uređaje bez 
+tople vode, naravno bolje je napraviti grijaće cijevi ili bakrene cilindre koji odvode 
+toplinu iz izgorjelog plina, zagrijavaju vodu i imaju prednost proizvodnje goriva nakon 
+kratkog vremena dovoljno tople vode, s druge strane, ne otežava održavanje. Na slici 1 
+prikazan je presjek cjelokupnog sastava toplovodnog uređaja. Na ovoj slici dva i 3' su 
+označena s dva grijaća cilindra oko kojih kruži dim prije prolaska kroz čep br. 14 u 
+dimnjaku. Oba cilindra su međusobno povezana cijevi 5, a cijevi 6 sa spremnikom br. 7. 
+Iz spremnika 7 vodi se cijev za toplu vodu 8, koja se zatim dijeli na jednu ili više 
+slavina za toplu vodu, ako je potrebno, u svakom stanu.
+Konstrukcija kotla za grijanje ili valjaka 3 i 3' je, naravno, takva da se prilikom 
+žbukanja peći izvlače na isti način kao i prethodno otvoreni toplovodni kotao, nakon 
+čega se unutarnji prostor može glatko žbukati. U tu svrhu otvaraju se samo dva vijčana 
+cijevna spoja (nizozemski), koji se nakon čišćenja lako ponovno spajaju. Iskustvo je 
+pokazalo da je ova vrsta toplovodnog sustava dovoljna za umjereno zagrijavanje peći 
+za sve potrebe kućanstva za toplom vodom obitelji od 6-10 članova. Njegova posebna 
+prednost je što zagrijava zagrijanu stijenku štednjaka čak i kada više ne gori u 
+štednjaku. Ako je npr navečer potroši svu toplu vodu za kupanje, voda se ponovno zagrijava tijekom noći, 
+tako da ujutro opet ima umjereno tople vode, iako se noću nije grijala. Slika 1 prikazuje 
+vrlo jednostavan način regulacije zagrijavanja obje pećnice. Pomicanjem ventila br. 13 
+sva toplina može se okretati oko donje pećnice, ali ako nije potrebna, samo oko gornje 
+pećnice, dok međupozicije omogućuju jače zagrijavanje gornje ili donje pećnice. Ako je 
+donja pećnica isključena, zagrijavanje vode se naravno ubrzava, što se događa upravo 
+kada je potrebno više tople vode, a zagrijavanje donje pećnice nije potrebno. Zatvorenik 
+br. 14 povrh toga dopuštao je regulaciju vuče davanjem oba zatvorenika br. 13 i 14 
+potpuna kontrola grijanja u štednjaku ili pećnici. Opisani uređaj za toplu vodu može 
+se kombinirati s običnom peći za kupanje za izravno grijanje. Kao što je prikazano na 
+slici 2, u tu svrhu, cijev za toplu vodu 8 lako se spaja na vrh peći za kupanje. Gdje 
+god se tada otvori ventil u peći za kupanje na primjer, na slici 2, ventil br. 12 ili 
+tuš 11, topla voda ulazi bez zagrijavanja peći za kupanje. S obzirom na običnu peć za 
+kupanje, takav sustav tople vode radi savršeno u svakom pogledu. Ako se peć za kupanje 
+koristi za veće količine tople vode kako bi se zagrijala kupaonica, ova dva uređaja 
+nikada ne smetaju jedan drugome, već se samo međusobno poboljšavaju. Kada peć ne gori, 
+ako je obitelj odsutna, nema potrošnje goriva i tople vode, međutim, kada je peć zagrijana, 
+topla voda je dostupna gotovo besplatno. Trošak ugradnje kotla je samo mali dio u slučaju 
+cijele peći, dok naravno cijena cijevi ostaje ista kao kod sličnih instalacija. Međutim, 
+kada je potrebna topla voda i ako peć nije zagrijana, električni grijač sa spremnikom tople 
+vode br. 7 na slici. Električni uređaj ne sadrži ništa osim običnog električnog grijača i 
+regulatora temperature, koji automatski spaja električnu struju ako temperatura tople 
+vode u spremniku padne, a ponovno ga isključuje ako temperatura poraste na određenu visinu. 
+Takav kombinirani uređaj čini cijeli uređaj malo skupljim
+međutim, postiže gotovo idealan povrat topline za vodu. Kad god peć radi, ispušni plinovi 
+su dovoljni za grijanje, ali ako se peć ohladi, električna struja usavršava grijanje. 
+Potrošnja električne energije na ovaj način je vrlo minimalna i uglavnom pada noću, kada 
+elektrane još uvijek obračunavaju povoljnu tarifu za električnu energiju za potrebe 
+grijanja. Opisani uređaj za toplu vodu je patentiran.
